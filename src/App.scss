@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.title {
+  font-family: 'Goblin One', cursive;
+  text-transform: uppercase;
+  font-size: 2rem;
+  background: linear-gradient(to right, #09009f, #00ff95 80%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
