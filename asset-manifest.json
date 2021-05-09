@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robohash-react/static/css/main.e3fe7553.chunk.css",
+    "main.js": "/robohash-react/static/js/main.a5c92211.chunk.js",
+    "main.js.map": "/robohash-react/static/js/main.a5c92211.chunk.js.map",
+    "runtime-main.js": "/robohash-react/static/js/runtime-main.4c62cf11.js",
+    "runtime-main.js.map": "/robohash-react/static/js/runtime-main.4c62cf11.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/robohash-react/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5ab4bc9a.chunk.js": "/robohash-react/static/js/2.5ab4bc9a.chunk.js",
+    "static/js/2.5ab4bc9a.chunk.js.map": "/robohash-react/static/js/2.5ab4bc9a.chunk.js.map",
+    "static/js/3.6f0b3ea2.chunk.js": "/robohash-react/static/js/3.6f0b3ea2.chunk.js",
+    "static/js/3.6f0b3ea2.chunk.js.map": "/robohash-react/static/js/3.6f0b3ea2.chunk.js.map",
+    "index.html": "/robohash-react/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/robohash-react/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.e3fe7553.chunk.css.map": "/robohash-react/static/css/main.e3fe7553.chunk.css.map",
+    "static/js/2.5ab4bc9a.chunk.js.LICENSE.txt": "/robohash-react/static/js/2.5ab4bc9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c62cf11.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5ab4bc9a.chunk.js",
+    "static/css/main.e3fe7553.chunk.css",
+    "static/js/main.a5c92211.chunk.js"
+  ]
+}
